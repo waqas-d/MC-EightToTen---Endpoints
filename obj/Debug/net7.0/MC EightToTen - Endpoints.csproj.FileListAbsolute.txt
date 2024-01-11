@@ -31,3 +31,36 @@
 /Users/waqasdad/MC EightToTen - Endpoints/obj/Debug/net7.0/MC EightToTen - Endpoints.pdb
 /Users/waqasdad/MC EightToTen - Endpoints/obj/Debug/net7.0/MC EightToTen - Endpoints.genruntimeconfig.cache
 /Users/waqasdad/MC EightToTen - Endpoints/obj/Debug/net7.0/ref/MC EightToTen - Endpoints.dll
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/bin/Debug/net7.0/appsettings.Development.json
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/bin/Debug/net7.0/appsettings.json
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/bin/Debug/net7.0/MC EightToTen - Endpoints
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/bin/Debug/net7.0/MC EightToTen - Endpoints.deps.json
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/bin/Debug/net7.0/MC EightToTen - Endpoints.runtimeconfig.json
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/bin/Debug/net7.0/MC EightToTen - Endpoints.dll
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/bin/Debug/net7.0/MC EightToTen - Endpoints.pdb
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/obj/Debug/net7.0/MC EightToTen - Endpoints.csproj.AssemblyReference.cache
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/obj/Debug/net7.0/MC EightToTen - Endpoints.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/obj/Debug/net7.0/MC EightToTen - Endpoints.AssemblyInfoInputs.cache
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/obj/Debug/net7.0/MC EightToTen - Endpoints.AssemblyInfo.cs
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/obj/Debug/net7.0/MC EightToTen - Endpoints.csproj.CoreCompileInputs.cache
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/obj/Debug/net7.0/MC EightToTen - Endpoints.MvcApplicationPartsAssemblyInfo.cs
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/obj/Debug/net7.0/MC EightToTen - Endpoints.MvcApplicationPartsAssemblyInfo.cache
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.MC EightToTen - Endpoints.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.build.MC EightToTen - Endpoints.props
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MC EightToTen - Endpoints.props
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MC EightToTen - Endpoints.props
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/obj/Debug/net7.0/staticwebassets.build.json
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/obj/Debug/net7.0/staticwebassets.development.json
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/obj/Debug/net7.0/scopedcss/bundle/MC EightToTen - Endpoints.styles.css
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/obj/Debug/net7.0/MC EightToTen - Endpoints.csproj.CopyComplete
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/obj/Debug/net7.0/MC EightToTen - Endpoints.dll
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/obj/Debug/net7.0/refint/MC EightToTen - Endpoints.dll
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/obj/Debug/net7.0/MC EightToTen - Endpoints.pdb
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/obj/Debug/net7.0/MC EightToTen - Endpoints.genruntimeconfig.cache
+/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/obj/Debug/net7.0/ref/MC EightToTen - Endpoints.dll
