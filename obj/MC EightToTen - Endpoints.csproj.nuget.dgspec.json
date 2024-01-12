@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/MC EightToTen - Endpoints.csproj": {}
+    "/Users/waqasdad/MC EightToTen - Endpoints/MC EightToTen - Endpoints.csproj": {}
   },
   "projects": {
-    "/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/MC EightToTen - Endpoints.csproj": {
+    "/Users/waqasdad/MC EightToTen - Endpoints/MC EightToTen - Endpoints.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/MC EightToTen - Endpoints.csproj",
+        "projectUniqueName": "/Users/waqasdad/MC EightToTen - Endpoints/MC EightToTen - Endpoints.csproj",
         "projectName": "MC EightToTen - Endpoints",
-        "projectPath": "/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/MC EightToTen - Endpoints.csproj",
-        "packagesPath": "/Users/brandon/.nuget/packages/",
-        "outputPath": "/Users/brandon/Documents/Codestack/peerreviews/MC-EightToTen---Endpoints/obj/",
+        "projectPath": "/Users/waqasdad/MC EightToTen - Endpoints/MC EightToTen - Endpoints.csproj",
+        "packagesPath": "/Users/waqasdad/.nuget/packages/",
+        "outputPath": "/Users/waqasdad/MC EightToTen - Endpoints/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/brandon/.nuget/NuGet/NuGet.Config"
+          "/Users/waqasdad/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

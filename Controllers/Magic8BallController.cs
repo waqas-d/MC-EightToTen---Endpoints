@@ -14,11 +14,11 @@ namespace MC_EightToTen___Endpoints.Controllers;
     }
 
     [HttpGet] // use Get to get/pull data
-    [Route("GetMagic8BallResult/{firstUniqueResp}/{secondUniqueResp}/{thirdUniqueResp}/{fourthUniqueResp}/{fifthUniqueResp}/{sixthUniqueResp}/{seventhUniqueResp}/{eighthUniqueResp}/{ninthUniqueResp}/{tenthUniqueResp}")]
+    [Route("GetMagic8BallResult/{magic8BallInput}")]
 
-    public string GetMagic8BallResult(string firstUniqueResp, string secondUniqueResp, string thirdUniqueResp, string fourthUniqueResp, string fifthUniqueResp, string sixthUniqueResp, string seventhUniqueResp, string eighthUniqueResp, string ninthUniqueResp, string tenthUniqueResp)
+    public string GetMagic8BallResult(string magic8BallInput)
     {
-        return _Magic8BallService.GetMagic8BallResult(firstUniqueResp, secondUniqueResp, thirdUniqueResp, fourthUniqueResp, fifthUniqueResp, sixthUniqueResp, seventhUniqueResp, eighthUniqueResp, ninthUniqueResp, tenthUniqueResp);
+        return _Magic8BallService.GetMagic8BallResult(magic8BallInput);
     }
 
     }
