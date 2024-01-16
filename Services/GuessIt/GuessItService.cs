@@ -71,5 +71,4 @@ public class GuessItService : IGuessItService
             return "Wrong entry. Please re-enter a number from 1-100.";
         }
     }
-
 }
